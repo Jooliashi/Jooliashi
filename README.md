@@ -6,10 +6,12 @@ A developer in training
 
 raised in Shanghai, educated in NY, sidetracked by finance in Hong Kong, currently based in London
 
-## languages/frameworks/others
+## Most used languages/frameworks/others
 Javascript: React, Express
 
 Ruby
+
+html, css
 
 ## 🌱 I’m currently learning
 Go, Typescript
