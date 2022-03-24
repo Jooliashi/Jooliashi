@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Jooliashi/Jooliashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :speech_balloon: About me
 
-Here are some ideas to get you started:
+A developer in training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+raised in Shanghai, educated in NY, sidetracked by finance in Hong Kong, currently based in London
+
+## languages/frameworks/others
+Javascript: React, Express
+
+Ruby
+
+## 🌱 I’m currently learning
+Go, Typescript
+
+## 📫 How to reach me:
+julia.shi@nyu.edu
+
