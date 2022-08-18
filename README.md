@@ -11,10 +11,12 @@ Javascript: React, Express
 
 Ruby
 
+Golang
+
 html, css
 
 ## 🌱 I’m currently learning
-Go, Typescript
+Typescript
 
 ## 📫 How to reach me:
 julia.shi@nyu.edu
