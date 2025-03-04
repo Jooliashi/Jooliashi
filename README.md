@@ -14,5 +14,5 @@ Golang
 html, css
 
 ## 📫 How to reach me:
-julia.shi@nyu.edu
+jooliashi@gmail.com
 
